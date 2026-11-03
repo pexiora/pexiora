@@ -1,6 +1,6 @@
 ## Bienvenue sur mon profil 👋
 
-Etudiant en BTS CIEL option A.
+Moi c'est Malcom, étudiant en BTS CIEL option A.
 
 ## Apprentissage :
 - C++
