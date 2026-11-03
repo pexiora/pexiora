@@ -1,6 +1,6 @@
 ## Bienvenue sur mon profil 👋
 
-
+Etudiant de BTS CIEL option A
 <!--
 **pexiora/pexiora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
