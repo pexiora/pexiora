@@ -1,5 +1,6 @@
 ## Bienvenue sur mon profil 👋
-# Etudiant en BTS CIEL option A.
+
+Etudiant en BTS CIEL option A.
 
 ## Apprentissage :
 C++, HTML, Python
