@@ -6,10 +6,12 @@ Etudiant en BTS CIEL option A.
 - C++
 - HTML, CSS
 - Python
+- JavaScript
 
 ## Projets personnels :
 - Homelab Proxmox : Immich & WireGuard
-- 
+- Montage & dépannage d'ordinateurs orientés gaming
+- Développement de bots Discord
 <!--
 **pexiora/pexiora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
