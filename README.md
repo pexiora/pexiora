@@ -1,6 +1,8 @@
 ## Bienvenue sur mon profil 👋
+# Etudiant en BTS CIEL option A.
 
-Etudiant de BTS CIEL option A
+## Apprentissage :
+C++, HTML, Python
 <!--
 **pexiora/pexiora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
